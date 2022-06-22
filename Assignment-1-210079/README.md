@@ -19,9 +19,9 @@ From these percentage, I can say that services that ease the customer, like thes
 <br><br>
 5. Oddly enough, about 74.91% of the churning category were having a paperless billing system. This shows that customers preferred having a written bill over an e-bill. So, companies instead of spending more on providing e-bill, could use post-offices and other ways to provide a written bill to customers.
 <br><br>
-6. Also, those customers who had an internet service preferred DSL over Fiber Optic as 69.40% of the churning customers used Fiber Optic for Internet Services.
+6. Also, those customers who had an internet service preferred DSL over Fiber Optic as 69.40% of the churning customers used Fiber Optic for Internet Services. Therefore, I intrepret that DSL provide a better internet service than Fiber Optic cable, so companies who plan to provide internet connections should prefer using DSL over Fiber Optic.
 <br><br>
-I found that the maximum tenure for any company was 72, and cusotmers who could surpass the period of 0 to 9 tenure stayed with their service providers generally.So, companies need to make sure to apply schemes (as mentioned in the above points), to make the customer stay for atleat a period of 10 tenure.
+7. I found that the maximum tenure for any company was 72, and cusotmers who could surpass the period of 0 to 9 tenure stayed with their service providers generally.So, companies need to make sure to apply schemes (as mentioned in the above points), to make the customer stay for atleat a period of 10 tenure.
 <br><br>
-7. The same goes for Monthly Charges. The maximum Monthly Charge paid by a customer in the data was 118.75/-. <br>
+The same goes for Monthly Charges. The maximum Monthly Charge paid by a customer in the data was 118.75/-. <br>
 The companies who asked for Monthly Charges in the range of 70/- to 110/- had a risk of high churning than others. Hence, Companies should try to keep themselves away from this range of charge.
