@@ -1,5 +1,5 @@
 # Ajitesh Shree, Roll: 210079
-<b><h2><u>My Conclusions:</u></h2></b><br>
+<b><h2><u>My Conclusions for Question 2:</u></h2></b><br>
 There were 1869 customers out of 7044 who left their telecom service. Some of the points I found that could help in lowering this number are :-
 
 1. From the DataSet, I found that there were 3 ways of payment in the contract of different telecom companies, i.e. yearly, biannually and a month-to-month basis contract. I also found that around 88.55% of the customers who left their telecom service (churned) were paying with a month-to-month contract.
