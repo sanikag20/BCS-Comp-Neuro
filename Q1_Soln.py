@@ -1,4 +1,4 @@
-# Easter Egg at position 69
+
 # Code will break at invalid input in S, A, R
 
 import os
@@ -47,8 +47,6 @@ class task:
 
     def R():
         x = int(input("Enter Position: "))
-        if x == 69:
-            print("YES DADDY")
         temp = task.arr.copy()
         temp.sort()
         print(temp[x - 1])
